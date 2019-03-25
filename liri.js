@@ -11,10 +11,10 @@ var moment = require("moment");
 
 // Process the command from node input line
 switch (command) {
-    case "consert-this":
+    case "concert-this":
         bandsInTownArtistEvents();
         break;
-    case "spotify-this song":
+    case "spotify-this-song":
         spotifySong();
         break;
     case "movie-this":
