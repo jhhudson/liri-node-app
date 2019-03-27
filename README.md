@@ -17,6 +17,6 @@ The User should type the following choices in the command line:
     *do-what-it-says - just will run 'spotify-this-song' for the song name from 'random.txt' file
 
     video link:
+    [here](https://drive.google.com/file/d/1G10oChAfseOX5lxQyQnvNfIiVPFfSrqu/view)
 
-    (https://drive.google.com/file/d/1G10oChAfseOX5lxQyQnvNfIiVPFfSrqu/view)
     
