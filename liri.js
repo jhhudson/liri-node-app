@@ -98,10 +98,10 @@ function fixedSongAndText() {
 }
 
 function spotifySong() {
-    ////If user has not specified a song , default to "I will always love you" by Witney Houston
+    ////If user has not specified a song , default to "One More Time" by Daft Punk
     if (!input) {
         console.log("Let's look at this hit!");
-        input = "I will always love you";
+        input = "One More Time";
     }
 
     spotify.search({ type: 'track', query: input }, function (err, data) {

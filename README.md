@@ -15,4 +15,8 @@ The User should type the following choices in the command line:
     *movie-this - "with the movie name after it"
 
     *do-what-it-says - just will run 'spotify-this-song' for the song name from 'random.txt' file
+
+    video link:
+    
+    https://drive.google.com/file/d/1G10oChAfseOX5lxQyQnvNfIiVPFfSrqu/view
     
